@@ -8,7 +8,7 @@
                                                                  
 </pre>
 
-# Projet THB "ruby" du 4ème jour de la 1ère semaine
+# Projet THP "ruby" du 4ème jour de la 1ère semaine
 
 
 
@@ -23,7 +23,7 @@ Détails :
 * /lib/03_stairway.rb  ->  Petit jeu mettant en scène une version simplifiée du jeu de l'oie : un lancé simulé de dé à 6 faces décide de la progression du joueur sur un escalier à 10 marches (5 ou 6 : +1 marche, 1 : -1 marche, 2/3/4 : 0 marches). Le joueur initie le prochain "jet" avec la touche "entrée" et est félicité lorsqu'il atteint l'objectif.
 
 ## Auteurs :
-2 moussaillons on pair-programming :
+2 moussaillons en pair-programming :
 
 > Dimitri Gaillot, slack @dimitri, [mijkami](https://github.com/mijkami/)
 
