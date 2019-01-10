@@ -25,9 +25,9 @@ Détails :
 ## Auteurs :
 2 moussaillons on pair-programming :
 
-> Dimitri Gaillot, slack @dimitri
+> Dimitri Gaillot, slack @dimitri, [mijkami](https://github.com/mijkami/)
 
-> Arthur Benoit, slack @Arthur Benoit [ArthurC2Pouce](https://github.com/ArthurC2Pouce)
+> Arthur Benoit, slack @Arthur Benoit, [ArthurC2Pouce](https://github.com/ArthurC2Pouce/)
 
 
 
