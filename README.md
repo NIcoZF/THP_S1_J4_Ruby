@@ -11,8 +11,8 @@ _____                _ __  __
 
 2 moussaillons on pair-programming :
 
-> Dimitri Gaillot  
-> Arthur B.
+> Dimitri Gaillot, slack @dimitri
+> Arthur Benoit, slack @Arthur Benoit 
 
 
 <pre>
